@@ -1,0 +1,28 @@
+
+
+#showContent .fa-trash{
+	color:red;
+}
+
+/*.single_product{
+	text-align: center;
+	border: 1px solid #ccc;
+}
+
+.border_class{
+	border: 1px solid red;
+	padding: 2px;
+}*/
+.button_part{
+	position: relative;
+
+}
+
+
+#show_carts_item{
+	position: absolute;
+	top:50px;
+	right: 0;
+	width: 300px;
+	z-index: 11;
+}
